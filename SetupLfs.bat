@@ -6,7 +6,7 @@ call git config --unset-all lfs.customtransfer.lfs-folder.args
 call git config --unset-all lfs.standalonetransferagent
 
 call git config --add lfs.customtransfer.lfs-folder.path lfs-folderstore
-call git config --add lfs.customtransfer.lfs-folder.args "%dropboxPath%/%projectName%/LFS"
+call git config --add lfs.customtransfer.lfs-folder.args "Y:/Dropbox/LFS_for_AYU/LFS"
 call git config --add lfs.standalonetransferagent lfs-folder
 
 call git reset --hard master
