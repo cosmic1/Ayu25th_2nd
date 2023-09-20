@@ -9,3 +9,4 @@ Content/Desert_Rocks_and_Cliffs/** filter=lfs diff=lfs merge=lfs -text
 Content/UltraDynamicSky/** filter=lfs diff=lfs merge=lfs -text
 Content/CosmicLab/Events/Ayu25th_2nd/M0-M1/Maps/** filter=lfs diff=lfs merge=lfs -text
 Content/BIG_ASSETS/** filter=lfs diff=lfs merge=lfs -text
+Content/Ft_Gothic_castle/Map/** filter=lfs diff=lfs merge=lfs -text
